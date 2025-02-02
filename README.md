@@ -7,3 +7,5 @@ Kaggle 데이터셋을 이용한 스트리밍 데이터 파이프라인 구축 �
 ## 기술스택
 - Elastic Cloud
 - Confluent Kafka
+- Apache Spark
+- MongoDB Atlas
